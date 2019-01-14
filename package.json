@@ -1,0 +1,20 @@
+{
+    "name": "inventoryManagement",
+    "version": "1.0.0",
+    "description": "Shortapp to track inventory",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "^4.16.4",
+        "nodemon": "^1.18.9",
+        "pg": "^7.8.0",
+        "pg-hstore": "^2.3.2",
+        "sequelize": "^4.42.0"
+    }
+}
