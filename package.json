@@ -1,7 +1,7 @@
 {
-    "name": "inventoryManagement",
+    "name": "Inventory Management",
     "version": "1.0.0",
-    "description": "Shortapp to track inventory",
+    "description": "Short app to track inventory",
     "main": "app.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
