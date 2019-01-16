@@ -1,5 +1,5 @@
 {
-    "name": "Inventory Management",
+    "name": "inventoryManagement",
     "version": "1.0.0",
     "description": "Short app to track inventory",
     "main": "app.js",

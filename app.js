@@ -9,6 +9,11 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(express.static(__dirname + '/public'));
 
+// app.get('/', (req, res, next) => {
+//     console.log("hey");
+//     res.sendfile('./public/index.html');
+// });
+
 app.post('/add/:name/:quantity?/:price?', (req, res, next) => {
     let item = req.params;
     models.items
