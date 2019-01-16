@@ -1,9 +1,10 @@
 {
     "development": {
-        "username": "postgres",
-        "password": null,
-        "database": "inventory_management",
-        "host": "127.0.0.1",
+        "username": "zypaekpckbaoul",
+        "password": "576f6270576d033e0b97b8e7a9f004794aca808d8dc997e231ece792257cee2a",
+        "port": "5432",
+        "database": "dd12bc9mhjg1rf",
+        "host": "ec2-54-235-67-106.compute-1.amazonaws.com",
         "dialect": "postgres"
     },
     "test": {
