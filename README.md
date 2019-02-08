@@ -6,7 +6,7 @@ CJ Horlebein
 
 ## Purpose:
 
-Demonstrate practical use of node / express
+Demonstrate practical use of node / express through a hardware parts inventory application.
 
 ## How to start:
 
@@ -14,3 +14,7 @@ Demonstrate practical use of node / express
 2. Run `npm install` to download dependencies.
 3. Start the app w/ `npm start`
 4. Visit `localhost.com/3000` on your dev environment
+
+
+Technologies Used
+HTML/CSS, Javascript, Express, Node, Bootstrap
