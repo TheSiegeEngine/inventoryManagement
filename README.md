@@ -1,20 +1,22 @@
-# Inventory Managemer App
+# Inventory Manager App
 
-## Author:
+> Test app for managing inventory for a store
+> 
+> Note: This is meant to be a fun hobby project for testing out express
 
-CJ Horlebein
+### Arthur: <a href="https://github.com/CJHorlebein" target="_blank">**CJ Horlebein**</a>
 
-## Purpose:
+---
 
-Demonstrate practical use of node / express through a hardware parts inventory application.
+**this project users the following technologies**
 
-## How to start:
+- Javascript
+- Node / Express
+- Axios / Ajax
 
-1. Clone this repo.
-2. Run `npm install` to download dependencies.
-3. Start the app w/ `npm start`
-4. Visit `localhost.com/3000` on your dev environment
+## About:
+This is a simple test application designed managing inventory for a mock store where a user can add / remove items from the store
 
+## Operation
 
-Technologies Used
-HTML/CSS, Javascript, Express, Node, Bootstrap
+To use this program, please first clone this repo and then run `npm` to install the relevant packages then start the app with `npm start`. You can then visit the app at `localhost.com/3000` on your machine 
