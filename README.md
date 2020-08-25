@@ -1,4 +1,4 @@
-# Simple Inventory Management App
+# Inventory Managemer App
 
 ## Author:
 
